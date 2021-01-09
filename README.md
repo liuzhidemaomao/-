@@ -34,6 +34,9 @@ $HRNet-Semantic-Segmentation-pytorch1.1
 │   │   ├── cityscapes
 │   │   │   ├── test.lst
 │   │   │   ├── trainval.lst
+│   │   │   ├── train.lst
+│   │   │   ├── mini_train.lst
+│   │   │   ├── mini_val.lst
 │   │   │   └── val.lst
 ├── pretrained_models
 │   ├── resnet50_v2.pth
